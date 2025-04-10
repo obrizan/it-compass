@@ -72,3 +72,4 @@
 - [функциональное и объектно-ориентированное программирование — scand.com](https://scand.com/ru/company/blog/functional-programming-vs-oop/)
 - [What is Functional Programming? Tutorial with Example — guru99.com](https://www.guru99.com/functional-programming-tutorial.html)
 - [Полное руководство по языку программирования F# — metanit.com](https://metanit.com/f/tutorial/)
+- [Функціональне програмування на Python — first.institute](https://first.institute/edu/course/functional/) (туторіал українською мовою з інтерактивними прикладами та тестами знань)
